@@ -1,0 +1,14 @@
+Relearn Python for advanced
+
+Day 1. 30.01.2023
+    Theme:
+        1. *args and **kwargs
+        2. Debugging
+        3. Generators
+
+Day 2. 31.01.2023
+    Theme:
+        1. Map, Filter and Reduce
+        2. set Data Structure
+        3. Ternary Operators
+        4. Decorators
